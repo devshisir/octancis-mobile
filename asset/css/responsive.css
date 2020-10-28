@@ -1,0 +1,2654 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1499px) {
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        width: 104px !important;
+        padding: 0px 14px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer {
+        width: 124%;
+        left: -11px;
+    }
+
+    #dashboardHeader .headerRightMenu ul li {
+        margin-left: 5px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li a svg {
+        height: 13px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li a p {
+        font-size: 10px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer li a {
+        font-size: 13px;
+        padding: 8px 15px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 21px 23px 15px 22px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a p {
+        font-size: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span img {
+        height: 31px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+        font-size: 20px;
+        top: 1px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+        font-size: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .right h5 {
+        font-size: 9px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer #myChart {
+        height: 240px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem {
+        margin-bottom: 28px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox {
+        padding: 13px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox h3 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer {
+        margin-top: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox {
+        margin-top: 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox {
+        padding: 13px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .topTitle .left h3 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox #myChart2 {
+        height: 215px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox {
+        padding: 13px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .topTitle h3 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox {
+        margin-top: 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+        height: 215px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        padding: 14px 9px 12px 9px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left span img {
+        height: 40px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h4 {
+        font-size: 20px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h5 {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left {
+        padding-left: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+        font-size: 18px;
+        top: 0px;
+        margin-right: 1px;
+        display: block;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 {
+        font-size: 12px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart {
+        margin-top: 21px;
+        padding: 0px 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 span {
+        font-size: 16px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer {
+        margin-top: 105px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+        height: 89px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox {
+        padding: 20px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox .chartBox #myChart4 {
+        height: 246px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox .chartBox {
+        margin-top: 54px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+        height: 37px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem {
+        margin-bottom: 21px;
+    }
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1500px) and (max-width: 1709px) {
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        width: 125px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li a svg {
+        height: 13px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li a p {
+        font-size: 10px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer li a {
+        font-size: 13px;
+        padding: 8px 15px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 21px 23px 15px 22px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a p {
+        font-size: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span img {
+        height: 44px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+        font-size: 27px;
+        top: 1px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+        font-size: 12px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox {
+        padding: 13px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox h3 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer {
+        margin-top: 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox {
+        margin-top: 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox {
+        padding: 13px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .topTitle .left h3 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox #myChart2 {
+        height: 246px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox {
+        padding: 13px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .topTitle h3 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox {
+        margin-top: 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+        height: 258px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        padding: 22px 13px 19px 17px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left span img {
+        height: 40px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h4 {
+        font-size: 20px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .topPart .left h5 {
+        font-size: 13px;
+        margin-top: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left {
+        padding-left: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+        font-size: 18px;
+        top: 0px;
+        margin-right: 1px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 {
+        font-size: 12px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart {
+        margin-top: 21px;
+        padding: 0px 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 span {
+        font-size: 16px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer {
+        margin-top: 36px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+        height: 144px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox {
+        padding: 20px 21px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox .chartBox #myChart4 {
+        height: 246px !important;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1300px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #userLogin {
+        padding: 50px 0px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .amount1Bottom {
+        padding-right: 37px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .amount1Bottom h4 span {
+        margin-left: 59px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .discountAmmount {
+        padding-right: 37px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .discountAmmount h4 span {
+        margin-left: 59px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .gstAmmount {
+        padding-right: 37px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable .gstAmmount h4 span {
+        margin-left: 59px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li a svg {
+        display: none;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        margin-left: 0px !important;
+        padding: 5px 10px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li {
+        width: auto;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li a p {
+        font-size: 9px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown {
+        top: 0px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown button.dropdownbtnMain {
+        height: auto !important;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown button.dropdownbtnMain {
+        width: auto !important;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a svg {
+        display: block;
+        margin: 0 auto;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul li.moreSettingsDropDownItem .moreSettingsDropDown .dropdown-menu ul li a p {
+        font-size: 10px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer {
+        width: 145px;
+        left: -24px;
+    }
+
+    #menuBar2Top .menuBar2TopContainer>ul>li .hoverMenuContainer li a {
+        font-size: 12px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        margin-bottom: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        margin-bottom: 10px;
+    }
+
+    #searchAreaModal .modal-dialog {
+        width: 79%;
+        max-width: initial;
+        margin: 10.75rem auto;
+    }
+
+    #DashboardReporstArea .reportLeftPanel {
+        width: 104%;
+        padding-bottom: 75px;
+    }
+
+    #DashboardReporstArea .rightPanel {
+        height: 100%;
+        padding-left: 0px;
+    }
+
+    #DashboardReporstArea .reportLeftPanel nav ul li a {
+        font-size: 11px;
+        padding: 11px 11px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer {
+        padding: 30px;
+        padding-bottom: 100px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox {
+        padding: 20px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .labelLeft {
+        font-size: 12px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputCheckStatus {
+        padding-left: 11px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio {
+        padding-left: 11px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .radionContainerYear {
+        flex-flow: wrap;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .radionContainerYear .radio {
+        margin-bottom: 9px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .filterSearchAction .filterSearchActionButton button {
+        margin-left: 10px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container {
+        overflow-x: scroll;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul {
+        width: 2000px;
+        padding-left: 10px;
+
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .btnComonGroup ul li {
+        margin-bottom: 11px;
+    }
+
+    #calederAppArae .calederAppAraeContainer {
+        padding: 30px;
+    }
+
+    .fc-daygrid.fc-dayGridMonth-view.fc-view {
+        width: 1400px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #userLogin {
+        padding: 50px 0px;
+    }
+
+    #invoiceHeader .invoiceHeaderContainer {
+        padding: 25px 30px 30px 30px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h4 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h5 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h3 {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .right h4 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .companyInfo ul li {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .left h3 {
+        font-size: 26px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable {
+        padding-right: 20px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .right h4 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 50px 29px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol li {
+        font-size: 14px;
+        width: 90%;
+
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol li {
+        font-size: 14px;
+        width: 90%;
+    }
+
+    .hide_md {
+        display: none !important;
+    }
+
+    .show_md {
+        display: block !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 16px 20px;
+        background: #FFFFFF;
+        margin-bottom: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span img {
+        height: 38px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+        font-size: 24px;
+        top: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+        font-size: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox {
+        padding: 15px 20px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer {
+        margin-top: 14px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox .chrtContainer #myChart {
+        height: 236px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox {
+        padding: 15px 20px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox .chartBox #myChart2 {
+        height: 228px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox {
+        padding: 15px 20px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox {
+        margin-top: 30px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+        height: 236px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        padding: 20px 15px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+        font-size: 17px;
+        display: block;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item {
+        margin-bottom: 17px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox {
+        padding: 20px;
+        margin-top: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a {
+        padding: 6px 19px;
+        font-size: 12px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li {
+        display: inline-block;
+        margin-left: 1px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent {
+        overflow-x: scroll;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent .table {
+        width: 1200px;
+    }
+
+    #searchAreaModal .modal-dialog {
+        width: 75%;
+        max-width: initial;
+        margin: 7.75rem auto;
+    }
+
+    #mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a.subCollaspeBtn:after {
+        background: transparent;
+        color: #232323;
+    }
+
+    #mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a {
+        font-weight: 700;
+        font-size: 13px;
+    }
+
+    #mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a.subCollaspeBtn[aria-expanded="true"]:after {
+        background: transparent;
+        color: #fff;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox {
+        padding: 20px;
+    }
+
+    .selectBox2 .text-right {
+        text-align: left !important;
+        margin-bottom: 6px;
+    }
+
+    .yearRadio .text-right {
+        text-align: left !important;
+        margin-bottom: 6px;
+    }
+
+    .radionContainerYear.d-flex {
+        flex-wrap: wrap;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .radionContainerYear .radio {
+        margin-bottom: 8px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer label {
+        text-align: center !important;
+    }
+
+    /*-- mobile filter menu --*/
+    #DashboardReporstArea .rightPanel {
+        padding-left: 0px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer {
+        background: #fff;
+        height: 100%;
+        padding: 30px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container {
+        overflow-x: scroll;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul {
+        width: 1500px;
+        padding-left: 10px;
+
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm #document-full {
+        width: 100%;
+    }
+
+    #emailSmsPage .emailSmsPageContainer {
+        padding: 36px 51px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .sendBtnEmailSms .fileAttachLink {
+        margin-left: 0px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer {
+        padding: 0px 20px 100px 46px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .btnComonGroup ul li {
+        margin-bottom: 15px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .colorGroup {
+        padding-left: 0px;
+        margin-top: 30px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm textarea {
+        width: 100%;
+    }
+
+    #topMenuBar3 .topMenuBar3Container {
+        padding-left: 0px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a svg {
+        margin-right: 3px;
+        height: 18px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 11px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li {
+        margin-right: 15px;
+    }
+
+    #calederAppArae .calederAppAraeContainer {
+        padding: 20px 30px;
+        background: #fff;
+    }
+
+    /*#calederAppArae{
+    overflow-x: scroll;
+}
+#calederAppArae .calederAppAraeContainer {
+    width: 1000px;
+}*/
+
+    .fc-daygrid.fc-dayGridMonth-view.fc-view {
+        width: 1230px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+    .show_mobile {
+        display: block !important;
+    }
+
+    .hide_mobile {
+        display: none !important;
+    }
+
+    header#dashboardHeader .logoArea {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    header#dashboardHeader .logoArea img {
+        height: 24px;
+    }
+
+    .headerRightMenu.text-right {
+        text-align: center !important;
+    }
+
+    #dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu {
+        width: 337px;
+        left: -181px !important;
+    }
+
+    #dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu .notificationsTop .left h3 {
+        font-size: 12px;
+    }
+
+    #dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu .notificationsTop .right ul li .clearNoti {
+        border: 1px solid #E5E5E5;
+        border-radius: 4px;
+        font-family: "Heebo", sans-serif;
+        font-weight: 600;
+        color: #6C6C6C;
+        width: auto;
+        padding: 6px 10px;
+        font-size: 11px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container {
+        padding-left: 0px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul {
+        text-align: center;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 9px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li {
+        display: inline-block;
+        margin-right: 0px;
+        margin: 0px 2px;
+    }
+
+    .mpl0 {
+        padding-left: 0px !important;
+    }
+
+    .mpr0 {
+        padding-right: 0px !important;
+    }
+
+    #topMenuBar3 {
+        overflow-x: hidden !important;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a svg {
+        margin-right: -2px;
+        height: 13px;
+    }
+
+    #mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a.subCollaspeBtn:after {
+        background: transparent;
+        color: #232323;
+    }
+
+    #mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a {
+        font-weight: 700;
+        font-size: 13px;
+    }
+
+    #mennubar2MobileMenu .menuMobileContainer .card .mobileMenuLink>ul li a.subCollaspeBtn[aria-expanded="true"]:after {
+        background: transparent;
+        color: #fff;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+        height: 47px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span {
+        margin-bottom: 19px;
+        margin-right: 10px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h4 {
+        font-size: 25px;
+        top: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left h5 {
+        font-size: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 span {
+        font-size: 15px;
+        display: block;
+        top: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .left h4 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 span {
+        font-size: 15px;
+        top: 0px;
+        display: block;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea .mainPart .item .right h4 {
+        font-size: 13px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox {
+        padding: 20px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+        height: 99px;
+        margin-bottom: 12px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .left .searchBox {
+        width: 100%;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right {
+        text-align: center !important;
+        margin-top: 20px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a {
+        padding: 5px 13px;
+        font-size: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox {
+        padding: 17px 22px;
+        background: #fff;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li {
+        display: inline-block;
+        margin-left: 0px;
+        margin: 0px 3px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent {
+        overflow-x: scroll !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerMainTableContent .table {
+        width: 1200px;
+    }
+
+    #dashboardFooter .footerCopyright p {
+        font-size: 9px;
+    }
+
+    .footerLogo a img {
+        height: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .mpl26 {
+        padding-left: 26px !important;
+    }
+
+    .mpl10 {
+        padding-left: 10px !important;
+    }
+
+    #userLogin {
+        padding: 20px 0px;
+    }
+
+    #userLogin .loginContainer .loginMainContainer {
+        padding: 38px 50px;
+        width: 100%;
+
+    }
+
+    #userLogin .loginContainer {
+        justify-content: center;
+        width: 100%;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable {
+        overflow-x: scroll;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .right h4 {
+        text-align: left;
+        margin-top: 11px;
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol {
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol li {
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol {
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol li {
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+
+    #invoiceHeader .invoiceHeaderContainer {
+        padding: 18px 33px 18px 33px;
+        ;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h4 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h5 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h3 {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .companyInfo ul li {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea {
+        margin-top: 34px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .left h3 {
+        font-size: 22px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .right h4 {
+        font-size: 14px;
+        text-align: left;
+        margin-top: 7px;
+        padding-left: 2px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 20px 44px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 12px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li {
+        margin: 0px 10px;
+    }
+
+    #dashboardHeader .headerRightMenu ul li #notificationsDropDown .dropdown-menu {
+        width: 408px;
+        left: -211px !important;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox .mainContainer .performaceMetterBox .svgMetter svg {
+        height: 134px;
+    }
+
+    #searchAreaModal .modal-dialog {
+        width: 85%;
+        max-width: initial;
+        margin: 5.75rem auto;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox {
+        padding: 20px;
+    }
+
+    .selectBox2 .text-right {
+        text-align: left !important;
+        margin-bottom: 6px;
+    }
+
+    .yearRadio .text-right {
+        text-align: left !important;
+        margin-bottom: 6px;
+    }
+
+    .radionContainerYear.d-flex {
+        flex-wrap: wrap;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .radionContainerYear .radio {
+        margin-bottom: 8px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer label {
+        text-align: left !important;
+        padding-left: 23px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    /*-- mobile filter menu --*/
+    #DashboardReporstArea .rightPanel {
+        padding-left: 0px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer {
+        background: #fff;
+        height: 100%;
+        padding: 30px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .labelLeft {
+        text-align: left !important;
+        padding-left: 20px;
+        margin-bottom: 10px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .radioAction {
+        margin-right: 12px;
+        margin-left: 16px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputDate {
+        width: 91%;
+        margin: 0 auto;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter2 .selectBox2 label {
+        left: 0px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer .datePickerSibgleItem .dateIcon {
+        right: 33px;
+        top: 50%;
+        transform: translateY(-3%);
+    }
+
+    .pl17 {
+        padding-left: 17px !important;
+    }
+
+    .pl32 {
+        padding-left: 32px !important;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter2 .selectBox2 select {
+        width: 95%;
+    }
+
+    .picodeLabel {
+        left: -13px !important;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .filterSearchAction .filterSearchActionButton button {
+        margin-left: 26px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .tableSearch table thead tr th {
+        font-size: 12px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .tableSearch table tbody tr td {
+        font-size: 11px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .tableSearch table tfoot tr td {
+        font-size: 11px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container {
+        overflow-x: scroll;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul {
+        width: 1200px;
+        padding-left: 10px;
+        text-align: left;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer .datePickerSibgleItem {
+        position: relative;
+        padding-left: 18px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm #document-full {
+        width: 100%;
+        height: 150px !important;
+    }
+
+    #emailSmsPage .emailSmsPageContainer {
+        background: #fff;
+        padding: 30px 45px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .sendBtnEmailSms .fileAttachLink {
+        margin-left: -13px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer {
+        background: #fff;
+        padding: 0px 25px 100px 38px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .btnComonGroup ul li {
+        margin-bottom: 15px;
+    }
+
+    .cbtn {
+        font-size: 12px;
+    }
+
+    .cbtn svg {
+        margin-right: 4px;
+        height: 16px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .colorGroup {
+        padding-left: 0px;
+        margin-top: 24px;
+    }
+
+    #alaertMessageArae {
+        width: 87%;
+    }
+
+    #alaertMessageArae .alertMessageItem .alert .alertDismisClose {
+        top: -14px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 11px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li {
+        margin: 0px 4px;
+    }
+
+    #calederAppArae .calederAppAraeContainer {
+        padding: 20px;
+    }
+
+    .fc-daygrid.fc-dayGridMonth-view.fc-view {
+        width: 1200px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+    .modal-open .modal {
+        z-index: 9999999999999999999999999;
+    }
+
+    #eventPopupModal .modal-dialog {
+        max-width: 90% !important;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox {
+        margin-left: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb label {
+        padding-left: 40px;
+        font-size: 13px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span {
+        width: 18px;
+        height: 18px;
+        left: 8px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::before {
+        top: 13px;
+        left: 7px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::after {
+        bottom: 8px;
+        left: 4px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox input {
+        width: 125px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .itemTitleEvent {
+        padding-left: 26px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .informationFildArea {
+        padding-left: 26px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .descriptionTextArae {
+        padding-left: 27px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formButtonAction {
+        padding-left: 28px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formActionbtn {
+        padding-left: 28px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .middleItem {
+        margin-top: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox {
+        display: flex;
+        justify-content: flex-start;
+        padding-left: 59px;
+        margin-top: 9px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .informationFildArea .rightSelect .rightSelectItem {
+        margin-right: 20px;
+        margin-bottom: 16px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+    .fc-timegrid.fc-timeGridWeek-view.fc-view {
+        width: 1000px;
+    }
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    .mmpl15 {
+        padding-left: 15px !important;
+    }
+
+    .mmpl33 {
+        padding-left: 33px !important;
+    }
+
+    .mmpr15 {
+        padding-right: 15px !important;
+    }
+
+    .mpl0 {
+        padding-left: 0px !important;
+    }
+
+    .mpr0 {
+        padding-right: 0px !important;
+    }
+
+    #userLogin {
+        padding: 20px 0px;
+    }
+
+    #userLogin .loginContainer .loginMainContainer {
+        padding: 38px 20px;
+        width: 100%;
+
+    }
+
+    #userLogin .loginContainer {
+        justify-content: center;
+        width: 100%;
+    }
+
+    #userLogin .loginContainer .loginMainContainer .info {
+        margin-top: 25px;
+    }
+
+    #userLogin .loginContainer .loginMainContainer .formArea {
+        margin-top: 29px;
+    }
+
+    #userLogin .loginContainer .loginMainContainer .formArea .dontHaveAccount {
+        margin-top: 29px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 50px 20px;
+        background: #fff;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .quotationMainTable {
+        overflow-x: scroll;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .right h4 {
+        text-align: left;
+        margin-top: 11px;
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol {
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoieTermsCondition ol li {
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol {
+        margin-top: 25px;
+        padding-left: 35px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .invoiceLicessSupport ol li {
+        font-size: 14px;
+        width: 100%;
+        margin-bottom: 5px;
+        line-height: 22px;
+    }
+
+    #invoiceHeader .invoiceHeaderContainer {
+        padding: 18px 33px 18px 33px;
+        ;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h4 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h5 {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .top .left h3 {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .topInfo .companyInfo ul li {
+        font-size: 14px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea {
+        margin-top: 34px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .left h3 {
+        font-size: 22px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer .quotationtableArea .topinfoTable .right h4 {
+        font-size: 14px;
+        text-align: left;
+        margin-top: 7px;
+        padding-left: 2px;
+    }
+
+    #invoiceMainArea .invoiceMainAreaContainer {
+        padding: 14px 19px;
+    }
+
+    #invoiceMainArea .invoiceFooter .invoiceFooterContainer .right {
+        text-align: center !important;
+        margin-top: 5px;
+    }
+
+    #invoiceMainArea .invoiceFooter .invoiceFooterContainer .left {
+        text-align: center !important;
+    }
+
+    #invoiceMainArea .invoiceFooter {
+        padding: 0px 16px;
+    }
+
+    #searchAreaModal .modal-dialog {
+        width: 90%;
+        max-width: initial;
+        margin: 4.75rem auto;
+    }
+
+    #DashboardReporstArea .rightPanel {
+        padding-left: 0px;
+    }
+
+    .mpl10 {
+        padding-left: 10px !important;
+    }
+
+    .mpr10 {
+        padding-right: 10px !important;
+    }
+
+    #DashboardReporstArea {
+        padding: 10px 0px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer {
+        height: 100%;
+        padding: 15px;
+    }
+
+    .mobileLeftMenuContainer .right span {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 13px;
+    }
+
+    .mobileLeftMenuContainer .left h4 {
+        font-size: 15px;
+    }
+
+    #reportsPlageLeftSidebarMobile {
+        width: 90%;
+    }
+
+    #reportsPlageLeftSidebarMobile .topPanelClose .content span {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 13px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .labelLeft {
+        font-size: 12px;
+        text-align: left !important;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox {
+        padding: 15px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .radioAction {
+        margin-right: 0px;
+        margin-bottom: 8px;
+    }
+
+    .inputBoxSearchFilter .justify-content-around {
+        justify-content: space-between !important;
+        padding-left: 15px;
+        padding-right: 17px;
+        margin-top: 8px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .radio__control {
+        width: 15px;
+        height: 15px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter input+.radio__control::before {
+        width: 7px;
+        height: 7px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .radio__label {
+        font-size: 12px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer label {
+        font-size: 12px;
+        text-align: left !important;
+        margin-bottom: 7px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputDate {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer .datePickerSibgleItem .dateIcon {
+        right: 23px;
+        top: 50%;
+        transform: translateY(-10%);
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datePickerContainer .datePickerSibgleItem {
+        margin-bottom: 7px;
+    }
+
+    .selectBox2 .text-right {
+        text-align: left !important;
+        margin-bottom: 5px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter2 {
+        margin-top: 0px;
+    }
+
+    .mpl17 {
+        padding-left: 16px !important;
+    }
+
+    .mpl19 {
+        padding-left: 19px !important;
+    }
+
+    .mpl31 {
+        padding-left: 31px !important;
+    }
+
+    .mpr13 {
+        padding-right: 13px !important;
+    }
+
+    .mpr28 {
+        padding-right: 28px !important;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter2 .selectBox2 label {
+        font-size: 12px;
+        margin-left: 0px;
+        left: 0px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter2 .selectBox2 {
+        margin-bottom: 6px;
+    }
+
+    label.picodeLabel {
+        padding-left: 4px;
+    }
+
+    .statusCheckFilter {
+        margin-top: 10px;
+        padding-left: 7px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .text-right {
+        text-align: left !important;
+        padding-left: 23px;
+    }
+
+    .radionContainerYear {
+        flex-wrap: wrap;
+        padding-left: 15px;
+        margin-top: 6px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .radionContainerYear .radio__control {
+        width: 69px;
+        height: 29px;
+        font-size: 11px;
+        line-height: 29px;
+        margin-bottom: 7px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio {
+        margin-top: 10px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .filterSearchAction .filterSearchActionButton button {
+        width: 90%;
+        height: 39px;
+        line-height: 39px;
+        outline: none;
+        margin: 0 auto;
+        display: table;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .searhFilterResultBoxTop .left h4 {
+        font-size: 12px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .searhFilterResultBoxTop .right p {
+        font-size: 11px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .tableSearch {
+        overflow-x: scroll;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterResultBox .tableSearch table {
+        width: 500px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .jquery-datepicker.theme-light {
+        top: 16% !important;
+    }
+
+    #topMenuBar3 .topMenuBar3Container {
+        overflow-x: scroll;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul {
+        width: 900px;
+        padding-left: 10px;
+        text-align: left;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a svg {
+        margin-right: 3px;
+        height: 17px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul li a {
+        font-size: 10px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm #document-full {
+        width: 100%;
+        height: 120px !important;
+    }
+
+    #emailSmsPage .emailSmsPageContainer {
+        background: #fff;
+        padding: 20px;
+        min-height: 610px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .topTitle h3 {
+        font-size: 12px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabBtnarea nav .nav-tabs a {
+        font-size: 12px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm .ql-toolbar.ql-theme.btn-toolbar.ql-snow svg {
+        height: 18px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm .ql-toolbar.ql-theme.btn-toolbar.ql-snow .btn {
+        margin-right: 5px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm {
+        padding-bottom: 35px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .sendBtnEmailSms .fileAttachLink {
+        margin-left: 0px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer {
+        margin-top: 28px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer {
+        padding: 20px 20px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer {
+        min-height: auto;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .btnComonGroup ul li {
+        margin-right: 17px;
+        margin-bottom: 12px;
+    }
+
+    .cbtn svg {
+        margin-right: 4px;
+        height: 13px;
+    }
+
+    .cbtn {
+        font-size: 11px;
+    }
+
+    .garyIcon img {
+        height: 15px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .iconBoxContainer .iocnItem ul li {
+        margin-right: 23px;
+        margin-bottom: 9px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .iconBoxContainer .iocnItem2 ul li {
+        margin-right: 23px;
+        margin-bottom: 9px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .colorGroup {
+        padding-left: 0px;
+        margin-top: 22px;
+    }
+
+    #comonComponentArea .comonComponentAreaContainer .colorGroup ul li {
+        height: 30px;
+        width: 30px;
+        margin-right: 3px;
+    }
+
+    #alaertMessageArae {
+        width: 90%;
+    }
+
+    #alaertMessageArae .alertMessageItem .alert {
+        font-size: 11px;
+        padding-right: 19px !important;
+    }
+
+    #alaertMessageArae .alertMessageItem .alert .alertDismisClose {
+        top: -22px;
+    }
+
+    #topMenuBar3 .topMenuBar3Container ul {
+        width: max-content;
+        padding-right: 20px;
+    }
+
+    #calederAppArae .calederAppAraeContainer {
+        padding: 10px;
+        background: #fff;
+    }
+
+    .fc-daygrid.fc-dayGridMonth-view.fc-view {
+        width: 1200px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+    .fc .fc-toolbar {
+        flex-direction: column;
+    }
+
+    #calederAppArae .calederAppAraeContainer #calenderActive .fc-button-group {
+        margin-top: 16px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+    .fc-timegrid.fc-timeGridWeek-view.fc-view {
+        width: 1000px;
+    }
+
+    .fc-view-harness.fc-view-harness-active {
+        overflow-x: scroll;
+    }
+
+    .fc-timegrid.fc-timeGridDay-view.fc-view {
+        width: 500px;
+    }
+
+    .fc-timegrid.fc-timeGridDay-view.fc-view .fc-liquid-hack .fc-timegrid-axis-frame-liquid {
+        width: 100px;
+    }
+
+    .modal-open .modal {
+        z-index: 9999999999999999999999999;
+    }
+
+    #eventPopupModal .modal-dialog {
+        max-width: 90% !important;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox {
+        margin-left: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb label {
+        padding-left: 40px;
+        font-size: 13px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span {
+        width: 18px;
+        height: 18px;
+        left: 8px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::before {
+        top: 13px;
+        left: 7px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::after {
+        bottom: 8px;
+        left: 4px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox input {
+        width: 125px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .itemTitleEvent {
+        padding-left: 26px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .informationFildArea {
+        padding-left: 26px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .descriptionTextArae {
+        padding-left: 27px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formButtonAction {
+        padding-left: 28px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formActionbtn {
+        padding-left: 28px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .middleItem {
+        margin-top: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox {
+        display: flex;
+        justify-content: flex-start;
+        padding-left: 59px;
+        margin-top: 9px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .informationFildArea .rightSelect .rightSelectItem {
+        margin-right: 20px;
+        margin-bottom: 16px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem {
+        flex-direction: column;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox {
+        width: 100%;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox input {
+        width: 100%;
+        margin-bottom: 8px;
+        margin-top: 5px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea {
+        background: #fff;
+        padding: 20px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox.select1 .nice-select {
+        width: 100%;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox.select2 .nice-select {
+        width: 100%;
+        margin-top: 9px;
+    }
+
+    #eventPopupModal .modal-dialog {
+        max-width: 96% !important;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox .plusAddBtn {
+        margin-top: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .itemTitleEvent {
+        padding-left: 0px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .informationFildArea {
+        padding-left: 0px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .descriptionTextArae {
+        padding-left: 0px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formButtonAction {
+        padding-left: 0px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formButtonAction .left button {
+        width: 133px;
+        height: 34px;
+        font-size: 11px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formButtonAction .right button {
+        width: 110px;
+        height: 34px;
+        font-size: 11px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formActionbtn {
+        padding-left: 0px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formActionbtn ul li {
+        display: inline-block;
+        margin-right: 3px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .reportLeftLable p {
+        text-align: left;
+        margin-bottom: 7px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .selectRabgeBoxRadio {
+        flex-wrap: wrap !important;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .radio {
+        margin-right: 15px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter {
+        margin-bottom: 11px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .datepckerInputReport {
+        margin-bottom: 8px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter2 .reportLeftLable p {
+        text-align: left;
+        margin-bottom: 7px;
+    }
+
+    .leftDatePicker {
+        margin-bottom: 8px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .reportLeftLable p {
+        margin-bottom: 5px;
+        text-align: left;
+        padding-left: 8px;
+    }
+
+    .radionContainerYear {
+        padding-left: 7px;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .inputBoxSearchFilter .selectRabgeBoxRadio {
+        margin-top: 8px;
+    }
+
+    #dashboardHeader .headerRightMenu ul li {
+        margin-left: 9px;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer {
+        padding: 20px;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .topAreaTable .leftInfo {
+        flex-wrap: wrap;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .topAreaTable .leftInfo .inputBoxLeft {
+        margin-left: 0px;
+        position: relative;
+        margin-top: 8px;
+        width: 100%;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .topAreaTable .rightBtn {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .topAreaTable .rightBtn .cbtn {
+        padding: 0px 9px;
+        height: 32px;
+        line-height: 30px;
+        font-size: 11px;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .mainTable {
+        overflow-x: scroll;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .mainTable table {
+        width: 1200px;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .mainTable table thead tr th {
+        font-size: 12px;
+    }
+
+    #atemdancePageMain .atemdancePageMainContainer .mainTable table tbody tr td {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+
+    #atemdancePageMain {
+        overflow-x: hidden;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer {
+        padding: 20px;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer .table1Status {
+        overflow-x: scroll;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer .table1Status .table1StatusTable {
+        width: 600px;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer .table2Status .table2StatusTable {
+        width: 600px;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer .table2Status {
+        overflow-x: scroll;
+    }
+
+    #communicationPage .communicationPageContiner {
+        padding: 20px;
+    }
+
+    #communicationPage .communicationPageContiner .topAreaPart .rightBtn {
+        text-align: left !important;
+        margin-top: 10px;
+    }
+
+    #communicationPage .communicationPageContiner .topAreaPart .rightBtn ul li {
+        margin-left: 0px;
+    }
+
+    #communicationPage .communicationPageContiner .topAreaPart .rightBtn ul li a {
+        padding: 0px 8px !important;
+        height: 32px !important;
+        line-height: 30px !important;
+        font-size: 11px !important;
+        margin-right: 6px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop {
+        margin-top: 28px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .leftBtn .nav {
+        display: flex;
+        border: none;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .leftBtn .nav li a {
+        font-size: 12px;
+        padding: 0px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .leftBtn .nav li {
+        margin-right: 23px;
+        margin-bottom: 6px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .leftBtn .nav li a:after {
+        bottom: -4px;
+        height: 2px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .rightDropDown {
+        margin-top: 10px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .rightDropDown .btn-group {
+        width: 100%;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .rightDropDown .dropBtnRight {
+        width: 100%;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .rightDropDown .dropdown-menu.show {
+        min-width: 301px;
+        top: 45px !important;
+        left: -20px !important;
+        padding: 18px 14px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .rightDropDown .dropdown-menu.show .topAreaDropDown .rightBtnInfo ul {
+        justify-content: space-between;
+        margin-top: 8px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTbaAreaTop .rightDropDown .dropdown-menu.show .historyBoxItemContainer .historyBoxItem {
+        padding: 15px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .labelFild {
+        text-align: left;
+        margin-bottom: 7px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .inputFildDate .dateBox {
+        width: 95%;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .inputFildDate .dateBoxRight {
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .inputFildDate .dateBoxRight .rightDateLabel {
+        margin-right: 13px;
+        width: 100%;
+        margin-top: 8px;
+        margin-bottom: 6px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .inputFildDate .dateBoxRight .dateBox {
+        width: 100%;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .inputFildRadio .radioAction .radio__label {
+        font-size: 10px;
+        top: 3px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .contactDetailsTab .contactDetailsTabInputBox .lableInput {
+        text-align: left;
+        margin-bottom: 8px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .communicationHistoryTab .tableArea {
+        width: 1200px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .communicationHistoryTab {
+        overflow-x: scroll;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .communicationHistoryTab .topProgress {
+        width: 1037px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .assignmentHistoryTabContent .tableArea {
+        width: 727px;
+    }
+
+    .assignmentHistoryTabContent {
+        overflow-x: scroll;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .leedQuestionTab .topFild .leftItem {
+        margin-bottom: 10px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .leedQuestionTab .topFild .leftItem p {
+        text-align: left;
+        margin-bottom: 8px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .leedQuestionTab .middleFild .middleFildItem p {
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .leedQuestionTab .bottomFild {
+        margin-top: 0px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .leedQuestionTab .middleFild {
+        margin-top: 0px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .leedQuestionTab .bottomFild .bottomFildItem p {
+        text-align: left;
+        margin-top: 0px;
+        margin-bottom: 7px;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .leftInfoWithoutInput p {
+        text-align: left;
+    }
+
+    #communicationPage .communicationPageContiner .commuicationTabMainContent .basicInfoTab .basicinfInputFildBox .leftInfoWithoutInput2 {
+        margin-right: 0px;
+    }
+
+    .leftInfoWithoutInput3 {
+        padding-left: 15px;
+    }
+
+    .normalIcon img{
+        height: 15px;
+    }
+
+    #emailSmsPage .emailSmsPageContainer .emailSmsPageMainContainer .emailSmsmTabContainer .emailSmsTabContentContainer .emailEditorForm textarea {
+        width: 100%;
+        height: 171px !important;
+        padding: 15px;
+        font-size: 13px;
+    }
+
+    section#calederAppArae .container-fluid {
+        padding-left: 14px;
+        padding-right: 14px;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer .table1Status .table1StatusTable {
+        width: 390px;
+    }
+
+    #atendanceTimeSheetStatus .atendanceTimeSheetStatusContainer .table2Status .table2StatusTable {
+        width: 405px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox {
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .performanceBox{
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .orientationBox{
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox{
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .leadBoxArea{
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .hodPerformanceBox{
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .companyPerformanceBox{
+        border-radius: 0px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a {
+        padding: 5px 5px;
+        font-size: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a svg {
+        margin-right: 2px;
+        height: 11px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .customerTableBox .customerTableAreaTop .right ul li a i {
+        margin-right: 2px;
+        font-size: 10px;
+    }
+
+    .mpr0{
+        padding-right: 0px !important;
+    }
+    .mpr30{
+        padding-right: 30px;
+    }
+
+
+}
+
+
+
+@media (min-width: 1263px) and (max-width: 1329px) {
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+        height: 41px;
+    }
+}
+
+@media (min-width: 1330px) and (max-width: 1455px) {
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+        height: 43px;
+    }
+}
+
+@media (min-width: 1456px) and (max-width: 1499px) {
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+        height: 43px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .manageMentPerformanceBox .chartBox #myChart3 {
+        height: 226px !important;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1709px) {
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem .left span svg {
+        height: 45px;
+    }
+
+    #mainDashboardContentArea .dashbordContentContainer .overviewItemBox .dashboardOverViewItem {
+        margin-bottom: 25px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #eventPopupModal .modal-dialog {
+        max-width: 90% !important;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox {
+        margin-left: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb label {
+        padding-left: 40px;
+        font-size: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span {
+        width: 18px;
+        height: 18px;
+        left: 8px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::before {
+        top: 13px;
+        left: 7px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::after {
+        bottom: 8px;
+        left: 4px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .modal-open .modal {
+        z-index: 9999999999999999999999999;
+    }
+
+    #eventPopupModal .modal-dialog {
+        max-width: 90% !important;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox {
+        margin-left: 10px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb label {
+        padding-left: 40px;
+        font-size: 13px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span {
+        width: 18px;
+        height: 18px;
+        left: 8px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::before {
+        top: 13px;
+        left: 7px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .topItemCheckBox .topItemCheckBoxItem .chiller_cb span::after {
+        bottom: 8px;
+        left: 4px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .leftItem .itemBox input {
+        width: 125px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .itemTitleEvent {
+        padding-left: 26px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .informationFildArea {
+        padding-left: 26px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .descriptionTextArae {
+        padding-left: 27px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formButtonAction {
+        padding-left: 28px;
+    }
+
+    #eventPopupModal .modal-dialog .eventformArea .formActionbtn {
+        padding-left: 28px;
+    }
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1890px) {
+    #atemdancePageMain {
+        overflow-x: hidden;
+    }
+
+    #DashboardReporstArea .reportLeftPanel {
+        width: 100%;
+    }
+
+    #DashboardReporstArea .rightPanel {
+        height: 100%;
+        padding-left: 0px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1340px) {
+    .radionContainerYear.d-flex {
+        flex-wrap: wrap;
+    }
+
+    #DashboardReporstArea .rightPanel .rightPanelContainer .searhFilterTop .filterSearchBox .yearRadio .radionContainerYear .radio {
+        margin-bottom: 8px;
+    }
+}
